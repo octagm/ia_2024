@@ -3,6 +3,17 @@ e iniciando el Primer Semestre de la Maestria para ver de que manera la Intelige
 Entonces, voy a abordarlo desde este aspecto de como distribuir los clientes a nuestros actuales comerciales para que logren cubrir una mayor cantidad de clientes y contribuya
 a mejorar las ventas de la compañia en la region.
 
+Considero que este problema puede ser analizado bajo IA, para que entregue la distribución mas adecuada de cuentas de clientes
+a los comerciales en la empresa, con la información que se tiene de:
+
+- Ventas de los ultimos dos (2) años por Comercial (2023 y 2024)
+- Clientes por region y por tipo de cada Comercial.
+- Nuevos posibles clientes buscados para el año 2025.
+- Visitas hechas a los clientes por cada comercial.
+- Productos buscados por los clientes en Proteccion de Datos.
+- Herramientas actuales de respaldo usadas por los clientes.
+
+
 La pregunta SMART (Especific, Measurable, Action-Oriented, Relevant, Time-Oriented):
 
 Como distribuir las cuentas de clientes a los comerciales de la compañia, con el proposito de generar mayores ventas durante el primer semestre del año 2025 ?
