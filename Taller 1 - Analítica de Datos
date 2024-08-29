@@ -1,0 +1,27 @@
+En la compañia donde yo actualmente trabajo, cada cuatrimestre se revisa como mejorar las ventas en la region que se cubre, compuesta
+por los siguientes paise: Colombia, Ecuador y Venezuela. Si bien esta es una amplia pregunta que requiere el análisis de muchos
+parámetros, voy a abordarlo desde la Maestria y establecer de que manera la Inteligencia Artificial puede ayudarme a mi y a la compañia
+a determinar si es posible dar una respuesta en un marco delimitado desde la distribución de cuentas o clientes a los representantes
+comerciales, de manera que ayude al mejoramiento de las ventas.
+Por lo que, voy a abordarlo desde la arista de distribución de los clientes a nuestros actuales comerciales para que logren 
+cubrir una mayor cantidad de clientes y contribuya a mejorar las ventas de la compañia en la region.
+
+Considero que este problema puede ser analizado bajo IA, para que entregue la distribución mas adecuada de cuentas de clientes
+a los comerciales en la empresa, usando la siguiente información:
+
+- Cantidad de Comerciales existentes en la compañia.
+- Ventas de los ultimos dos (2) años organizado por Comercial (2023 y lo que llevamos del 2024), region y tipo de cliente.
+- Clientes actuales asignados por región y por tipo a cada Comercial.
+- Nuevos clientes por región y tipo objetivos para el primer semestre del año 2025.
+- Frecuencia de visitas hechas a los clientes por cada comercial.
+- Productos mas adquiridos por los clientes del Portafolio que ofrece la compañia.
+- Actuales Herramientas de la competencia que esten siendo usados por clientes objetivo para el primer semestre del año 2025.
+- Precios de venta de los productos de las competencia.
+
+La pregunta SMART (Especific, Measurable, Action-Oriented, Relevant, Time-Oriented):
+
+¿ De que manera se deben distribuir las cuentas de clientes a los comerciales de la compañia, con el proposito de generar mayores ventas durante el primer semestre del año 2025 ?
+
+Nota: Despues de una revisión con el Profesor Jose Armando, estoy cambiando la pregunta SMART a la siguiente:
+
+Es factible asignar a cada comercial de la compañia una categoria especifica de clientes determinada por IA y que genere mayor balance de ventas durante el primer cuarto del año 2025, comparado al mismo periodo del año 2024 ?
